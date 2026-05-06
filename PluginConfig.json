@@ -1,0 +1,12 @@
+{
+  "assembly": ["MyPlugin.dll"],
+  "javascript": ["Resources/MyPluginCellType.js"],
+  "pluginType": "cellType",
+  "guid": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+  "version": "1.0.0.0",
+  "dependenceVersion": "8.0.104.0",
+  "name": "MyPlugin",
+  "displayName": "Hello按钮插件",
+  "description": "一个简单的单元格插件，用于演示活字格插件开发",
+  "localeName": "zh-CN"
+}
